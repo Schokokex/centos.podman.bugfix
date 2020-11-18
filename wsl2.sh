@@ -1,3 +1,5 @@
+#from https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL/issues/54
+
 podman unshare cat /proc/self/uid_map
 #         0       1000          1
 
